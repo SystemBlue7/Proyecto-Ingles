@@ -2,6 +2,7 @@ import my_def
 from gtts import gTTS
 import os
 import random
+import math as mate
 
 
 def reproducir_texto(texto, idioma='en'):
